@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "Pname": "laptop",
+      "brand": "hp",
+      "quantity": "5",
+      "price": "45000",
+      "id": 1
+    },
+    {
+      "Pname": "tablet",
+      "brand": "lenovo",
+      "quantity": "3",
+      "price": "30000",
+      "id": 2
+    },
+    {
+      "Pname": "mobile",
+      "brand": "realme",
+      "quantity": "5",
+      "price": "20000",
+      "id": 3
+    },
+    {
+      "Pname": "system",
+      "brand": "dell",
+      "quantity": "8",
+      "price": "30000",
+      "id": 4
+    }
+  ]
+}

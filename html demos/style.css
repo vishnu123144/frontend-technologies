@@ -1,0 +1,12 @@
+p {
+    color: green;
+    font-size: 30pt;
+    text-decoration: underline;
+ }
+/* class selector*/
+ .mystyle {
+      color: blue;
+      border: 1px solid greenyellow;
+      font-size: 35pt;
+      background-color: yellow;
+ }

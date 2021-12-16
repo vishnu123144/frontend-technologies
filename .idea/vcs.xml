@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/react/contactmanager" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/react/myapp-ts" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/reactjs/contact" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/reactjs/firstapp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/reactjs/sampleapp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/reactjs/secondapp" vcs="Git" />
+  </component>
+</project>

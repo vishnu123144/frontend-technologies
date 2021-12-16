@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Forms</title>
+</head>
+<body>
+    <form>
+    <label for="fname"></label>
+    <input id="fname" type="text" required pattern="[a-zA-Z]{3,10}"placeholder="First name">
+    <input type="password" required placeholder="password">
+    <input type="color" >
+    <input type="date">
+    <input type="range" max="100" min="1" value="50">
+    <hr>
+    <span>Hobbies:</span>
+     <input type="checkbox" id="check1">
+     <label for="check1">Singing</label>
+     <input type="checkbox" id="check2">
+     <label for="check2">Playing</label>
+     <hr>
+     <span>Gender:</span>
+     <input type="radio" id="male" name="r1">
+     <label for="male">Male</label>
+     <input type="radio" id="male" name="r1">
+     <label for="male">FeMale</label>
+     <label id="country"></label>
+     <br>
+     <select id="country">
+         <option>china</option>
+         <option>india</option>
+         <option>england</option>
+         <option>russia</option>
+     </select>
+     <br>
+     <textarea cols="50" rows="5" placeholder="enter comments"></textarea>
+     <br>
+     <input type="button" value="register">
+     <input type="submit" >
+     </form>
+</body>
+</html>

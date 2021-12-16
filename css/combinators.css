@@ -1,0 +1,15 @@
+/* combinators
+
+descendent selector(space)
+child selector(>)
+adjacent sibling(+)
+general sibling selector(~)*/
+
+/*div p{
+    color: red;
+}*/
+
+
+div~p{
+    color:violet;
+}

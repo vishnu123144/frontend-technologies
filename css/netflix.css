@@ -1,0 +1,26 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+.container
+{
+    background-color: rgb(0, 0, 0);
+    background-image: url("images/img2.jpg");
+    backdrop-filter: blur(30px);
+    height: 100vh;
+}
+ h2{
+    color: red;
+   
+   
+}
+div a{
+    background-color: red;
+    text-decoration: none;
+    padding: 2px;
+}
+.body h1,p,h3{
+    color: white;
+    text-align: center;
+}

@@ -1,0 +1,27 @@
+a:link
+{
+    color: green;
+}
+
+a:visited
+{
+    color: rgb(red, green, blue);
+}
+a:hover{
+    color: red;
+}
+a:active{
+    color: rgb(82, 55, 55);
+}
+
+p:first-child{
+    color:yellow;
+}
+/*
+p:last-child{
+    color:green;
+}*/
+/*p:nth-child(odd)
+{
+    color:red;
+}*/
